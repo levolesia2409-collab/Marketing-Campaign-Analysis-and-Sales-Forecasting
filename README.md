@@ -1,14 +1,14 @@
 # Marketing ROI & Sales Forecasting: Identifying Revenue Drivers and Pricing Pitfalls
 
 ## Project Overview
-This project provides a deep-dive analysis of a digital retailer's marketing performance (2009–2011). Using a dataset of **18,000 campaign records**, I built an end-to-end analytical pipeline to evaluate marketing efficiency and forecast sales revenue. 
+This project provides a deep-dive analysis of a digital retailer's marketing performance (2010–2011). Using a dataset of **18,000 campaign records**, I built an end-to-end analytical pipeline to evaluate marketing efficiency and forecast sales revenue. 
 
 The core value of this work lies in the **synthesis of statistical modeling and business strategy**, identifying where marketing budgets are optimized and where promotional strategies (like aggressive discounting) may be failing.
 
 ---
 
 ### Quick Links
-* 💾 **Dataset Source:** [Kaggle E-Commerce Marketing Dataset](https://www.kaggle.com/datasets/amineipad/e-commerce-marketing-and-sales-revenue-prediction/data))
+* 💾 **Dataset Source:** [Kaggle E-Commerce Marketing Dataset](https://www.kaggle.com/datasets/amineipad/e-commerce-marketing-and-sales-revenue-prediction/data)
 * 📓 **Full Analysis:** [Jupyter Notebook](./My_Project.ipynb)
 
 ---
