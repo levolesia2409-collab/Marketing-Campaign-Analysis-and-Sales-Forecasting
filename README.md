@@ -9,7 +9,7 @@ The core value of this work lies in the **synthesis of statistical modeling and 
 
 ### Quick Links
 * 💾 **Dataset Source:** [Kaggle E-Commerce Marketing Dataset](https://www.kaggle.com/datasets/amineipad/e-commerce-marketing-and-sales-revenue-prediction/data)
-* 📓 **Full Analysis:** [Jupyter Notebook](My Project.ipynb)
+* 📓 **Full Analysis:** [Jupyter Notebook](https://github.com/levolesia2409-collab/Marketing-Campaign-Analysis-and-Sales-Forecasting/blob/705f8a3b3b24450a264ebb77e30fd69570166a84/My%20Project.ipynb))
 
 ---
 
